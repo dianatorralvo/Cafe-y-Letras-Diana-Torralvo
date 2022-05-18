@@ -4,10 +4,10 @@ import Logo from './logo.svg';
 
 function Header(){
     return(
-/*caracteristicas del componente*/
+
 <header>
 <a href="index.html" class="m-logo"><img src={Logo}/></a>
-        <div class="search">
+    <div class="search">
             <div class="search_wrap">
                 <div class="search_box">
                     <input type="text" class="input" placeholder="Buscar"/>
@@ -37,6 +37,15 @@ function Header(){
             </ul>
         </nav>
     </div>
+
+
+
+
+
+
+
+
+
 </header>
 );
 }
