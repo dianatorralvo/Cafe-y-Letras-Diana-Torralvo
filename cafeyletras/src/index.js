@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import Header from './header/Header';
 import Navbar from './navbar/Navbar';
 import Footer from './footer/Footer';
+import Subfooter from './Subfooter/Subfooter';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -13,6 +14,7 @@ root.render(
   <Header/>
   <Navbar/>
   <Footer/>
+  <Subfooter/>
   </React.StrictMode>
 );
 

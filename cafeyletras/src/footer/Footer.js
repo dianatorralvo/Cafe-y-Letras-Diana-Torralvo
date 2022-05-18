@@ -1,3 +1,4 @@
+import React from 'react';
 import './Footer.css'
 import Logo from './logofooter.svg';
 
@@ -29,11 +30,6 @@ function Footer(){
         <p><i class="fa-solid fa-envelope"></i>  info@cafeyletras.com</p>
         <p><i class="fa-solid fa-location-dot"></i>  Calle 15 #45a-08</p>
     </div>
-<div class="parte-abajo">
-<h5>©2022 CAFÉ Y LETRAS</h5>
-<p>Terminos y condiciones</p>
-<p>Avisos de privacidad</p>
-</div>
 </footer>
 );
 }
