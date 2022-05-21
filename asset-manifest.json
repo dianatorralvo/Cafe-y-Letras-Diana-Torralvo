@@ -1,18 +1,13 @@
 {
   "files": {
-    "main.css": "/Cafe-y-Letras-Diana-Torralvo/static/css/main.d07b24c4.css",
-    "main.js": "/Cafe-y-Letras-Diana-Torralvo/static/js/main.f3d49b02.js",
-    "static/js/787.bc265d9c.chunk.js": "/Cafe-y-Letras-Diana-Torralvo/static/js/787.bc265d9c.chunk.js",
-    "static/media/logofooter.svg": "/Cafe-y-Letras-Diana-Torralvo/static/media/logofooter.a8a33a6e5f7cb39218bc1543f834292e.svg",
-    "static/media/logotipo.svg": "/Cafe-y-Letras-Diana-Torralvo/static/media/logotipo.26f289431362b7a069a55c61aa865402.svg",
+    "main.css": "/Cafe-y-Letras-Diana-Torralvo/static/css/main.b29ed534.css",
+    "main.js": "/Cafe-y-Letras-Diana-Torralvo/static/js/main.cd87d10a.js",
     "index.html": "/Cafe-y-Letras-Diana-Torralvo/index.html",
-    "static/media/logo.svg": "/Cafe-y-Letras-Diana-Torralvo/static/media/logo.50a732524c124e4826311a1eba2e4903.svg",
-    "main.d07b24c4.css.map": "/Cafe-y-Letras-Diana-Torralvo/static/css/main.d07b24c4.css.map",
-    "main.f3d49b02.js.map": "/Cafe-y-Letras-Diana-Torralvo/static/js/main.f3d49b02.js.map",
-    "787.bc265d9c.chunk.js.map": "/Cafe-y-Letras-Diana-Torralvo/static/js/787.bc265d9c.chunk.js.map"
+    "main.b29ed534.css.map": "/Cafe-y-Letras-Diana-Torralvo/static/css/main.b29ed534.css.map",
+    "main.cd87d10a.js.map": "/Cafe-y-Letras-Diana-Torralvo/static/js/main.cd87d10a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d07b24c4.css",
-    "static/js/main.f3d49b02.js"
+    "static/css/main.b29ed534.css",
+    "static/js/main.cd87d10a.js"
   ]
 }
